@@ -1,0 +1,156 @@
+/* .followButton{
+    background-color: rgb(4, 141, 215);
+    width: 100px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 7px;
+    text-align: center;
+
+/* .followButton a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+} */
+/* #img img{
+    height: 150px;
+    border-radius: 100%;
+    width: 150px;
+    object-fit: cover;
+} */
+/* .followButton1{
+    background-color: rgb(4, 141, 215);
+    width: 100px;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 7px;
+    text-align: center;
+} */
+/* .followButton1 a{
+    color: white;
+    text-decoration: none;
+} */
+/* .container{
+    background-color: rgb(244, 241, 237);
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+    align-items: center;
+    margin: 10px;
+    display: inline-block;
+    justify-content: space-evenly;
+    padding: 40px;
+    padding-left: 100px;
+    padding-top: 70px;
+} */
+ /* .followButton{
+    margin: 20px;
+ }
+ .followButton a{
+    color: white;
+    background-color: rgb(6, 107, 247);
+    text-decoration: none;
+    padding: 10px;
+    margin: 0 px;
+    border-radius: 10px;
+ } */
+
+ /* *{
+    box-sizing: border-box;
+}
+.navbar{
+    height: 70px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 0;
+    border-radius: 15px;
+}
+.navbar1{
+    display: flex;
+    gap: 20px;
+}
+.navbar2{
+    display: flex;
+    gap: 20px;
+}
+.logo{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    font-family: cursive;
+    font-weight: bold;
+}
+.search-button{
+    padding: 6px 300px;
+    border-radius: 10px;
+    border: 1px solid rgb(248, 246, 246);
+    color: rgb(192, 186, 186);
+    cursor: pointer;
+    font-size: 12px;
+    
+}
+.search-button:hover{
+    background-color: rgb(237, 237, 237);
+}
+.link{
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+}
+.link:hover{
+    background-color: rgb(248, 248, 248);
+    border-radius: 10px;
+}
+.join-button{
+    background-color: white;
+    border: 1px solid rgb(179, 175, 175);
+    border-radius: 10px;
+    padding: 10px 40px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.upload-button{
+   background-color: green;
+    border: 1px solid rgb(179, 175, 175);
+    border-radius: 10px;
+    padding: 10px 40px; 
+    color: white;
+    font-weight: bold;
+}
+.join-button:hover{
+    background-color: rgb(248, 248, 248);
+}
+.upload-button:hover{
+    background-color: rgb(4, 168, 4);
+}
+.image{
+    height: 300px;
+}
+.upload-heading{
+    color: rgb(220, 219, 219);
+}
+.paragraph{
+    color: rgb(178, 177, 177);
+}
+.uploadmedia-button{
+    background-color: white;
+    border: 1px solid gray;
+    padding: 5px 30px;
+    border-radius: 15px;
+    font-size: 15px;
+}
+.item{
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;
+}.container{
+    border: 1px solid black;
+    background-color: green;
+    margin: 10px;
+    width: 300px;
+    border-radius: 10px;
+    padding: 10px;
+} */

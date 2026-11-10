@@ -1,0 +1,38 @@
+/* #hello{
+  color: green
+}
+.world{
+  background-color: red;
+} */
+*{
+  margin: 10px;
+  padding: 20px;
+}
+button{
+  width: 400px;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  border: 0;
+  border-radius: 10px;
+  cursor: pointer;
+}
+input{
+  width: 400px;
+  padding: 10px;
+  border: 1px solid rgb(215, 213, 213);
+  border-radius: 10px;
+}
+.loginform{
+  margin-left: 20%;
+  padding: 30px;
+  width: 500px;
+  background-color: rgb(164, 220, 241);
+  border-radius: 20px;
+  height: 300px;
+}
+.loginform h1{
+  text-align: center;
+  color: blue;
+  margin-top: 20px;
+}

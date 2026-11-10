@@ -1,0 +1,32 @@
+.servicelist a{
+    text-decoration: none;
+    color: black;
+    
+}
+.servicelist{
+    background-color: rgb(244, 237, 215);
+    border-radius: 10px;
+    padding: 5px 0;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+}
+.menu{
+    display: none; 
+    position: absolute;
+    left: 0;
+    top: 10px;
+    list-style: none;
+    padding: 0;
+    width: 120px;
+}
+.heading{
+    position: relative;
+
+}
+.heading:hover .menu{
+    display: block;
+}
+.bold{
+    font-weight: bold;
+}

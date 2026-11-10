@@ -1,0 +1,63 @@
+.footer{
+    background-color: rgb(255, 191, 0);
+    color: white;
+}
+.footercontainer{
+    text-align: center;
+    line-height: 15px;
+    margin-top: 50px;
+    padding-top: 10px;
+}
+.mobileinput{
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px 0 0 15px;
+    border: 0;
+    background-color: rgb(255, 191, 0);
+    border: 2px solid white;
+}
+.requestcall{
+    padding: 15px;
+    border-radius: 0 15px 15px 0;
+    background-color: white;
+    color: rgb(255, 191, 0);
+    font-size: 15px;
+    border: 2px solid white;
+}
+.footer-top{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    padding: 10px;
+}
+.footer-box h2{
+font-size: 20px;
+margin-bottom: 20px;
+}
+.footer-box ul{
+    list-style: none;
+}
+.footer-box ul li{
+     margin-bottom: 12px;
+}
+.footer-box ul li a{
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.footer-list:hover a{
+    padding-left: 5px;
+    text-decoration: underline;
+}
+.logo1{
+    padding: 10px;
+}
+.footer-container p{
+    padding: 10px;
+}
+input::placeholder{
+    color: white;
+}
+.mobile-button{
+    display: flex;
+    justify-content: center;
+}

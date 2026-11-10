@@ -1,0 +1,75 @@
+.cards{
+    display: flex;
+}
+.salescard{
+    background-color: rgb(255, 230, 0);
+    border-radius: 20px;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 25px;
+}
+.salescard:hover{
+    background-color: rgb(239, 224, 91);
+}
+.makingcard{
+    background-color: skyblue;
+    border-radius: 20px;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 25px;
+}
+.makingcard:hover{
+    background-color: rgb(152, 221, 249);
+}
+.todaysalecard{
+    background-color: plum;
+    border-radius: 20px;
+    height: 170px;
+    padding: 40px;
+    text-align: center;
+    padding-top: 50px;
+}
+.todaysalecard:hover{
+    background-color: rgb(245, 194, 245);
+}
+.ordercard{
+    background-color: peachpuff;
+    border-radius: 20px;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.ordercard:hover{
+    background-color:  rgb(250, 212, 180);
+}
+.delayedcard{
+    background-color: rgb(241, 119, 241);
+    border-radius: 20px;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 25px;
+}
+.delayedcard:hover{
+    background-color: rgb(247, 164, 247);
+}
+.jobcard{
+    background-color: rgb(229, 131, 164);
+    border-radius: 20px;
+    height: 200px;
+    padding: 10px;
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 25px;
+}
+.jobcard:hover{
+background-color:  rgb(237, 161, 187);
+}
